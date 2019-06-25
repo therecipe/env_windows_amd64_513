@@ -1,0 +1,5 @@
+#!/c/mingw730/x86_64-730-posix-seh-rt_v5-rev0/mingw64/opt/bin/python2.7.exe
+
+import pydoc
+if __name__ == '__main__':
+    pydoc.cli()
